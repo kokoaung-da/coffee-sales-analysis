@@ -2,6 +2,22 @@
 
 Built an interactive sales dashboard using Power Pivot data modeling with linked Order, Product, and Customer tables. Applied DAX measures to calculate total and segmented sales by roast type, size, and region. Revealed that 80% of revenue came from the U.S. and that Arabica and Liberica dominated sales, guiding marketing and inventory planning decisions.
 
+
+**Data Model**
+
+![Data Model](https://raw.githubusercontent.com/kokoaung-da/coffee-sales-analysis/main/coffee_sales_data_model.png)
+
+
+**DAX Measures**
+
+![Data Model](https://raw.githubusercontent.com/kokoaung-da/coffee-sales-analysis/main/coffee_sales_dax_measures.png)
+
+
+**Dashboard**
+
+![Data Model](https://raw.githubusercontent.com/kokoaung-da/coffee-sales-analysis/main/coffee_sales_dashboard.png)
+
+
 **Coffee Sales Dashboard — Business Insights**
 
 - 1. **Sales Performance by Coffee Type**
