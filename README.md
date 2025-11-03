@@ -44,22 +44,6 @@ Built an interactive sales dashboard using Power Pivot data modeling with linked
 
 ---
 
-- 4. **Impact of Roast Type and Size Preferences**
-
-  - The dashboard filter highlights **Light Roast** as the most selected option, suggesting customer preference for lighter flavor profiles.
-  - Smaller package sizes (e.g., **0.5 kg and 1 kg**) are likely preferred — aligning with **individual consumers** rather than bulk buyers.
-  - **Recommendation:** Optimize inventory and product mix toward *Light Roast* in smaller sizes. Develop limited-edition or premium light-roast variants to capitalize on consumer trends.
-  
-  ---
-
-- 5. **Sales Over Time (Trend Analysis)**
-
-  - Sales patterns show **high seasonality**, with clear spikes every few months — possibly linked to **holidays or promotional campaigns**.
-  - However, there’s visible **volatility**, suggesting inconsistent demand planning.
-  - **Recommendation:** Use historical data to forecast future demand, ensuring better stock management and marketing timing. Introduce steady monthly promotions to smooth out fluctuations.
-
----
-
 - 6. **Loyalty Program Analysis**
 
   - The inclusion of a **“Loyalty Card” filter** enables segmentation between members and non-members.
