@@ -6,9 +6,9 @@ Built an interactive sales dashboard using Power Pivot data modeling with linked
 
 - 1. **Sales Performance by Coffee Type**
 
-- **Arabica and Liberica** show frequent sales peaks, indicating high seasonal demand.
-- **Robusta** sales remain consistently lower, suggesting an opportunity to either **reduce inventory** or **reposition marketing** toward its unique strengths (e.g., affordability or caffeine content).
-- **Recommendation:** Focus marketing campaigns and promotions on top-performing types like *Arabica* and *Liberica* while exploring bundling or rebranding for underperforming ones.
+  - **Arabica and Liberica** show frequent sales peaks, indicating high seasonal demand.
+  - **Robusta** sales remain consistently lower, suggesting an opportunity to either **reduce inventory** or **reposition marketing** toward its unique strengths (e.g., affordability or caffeine content).
+  - **Recommendation:** Focus marketing campaigns and promotions on top-performing types like *Arabica* and *Liberica* while exploring bundling or rebranding for underperforming ones.
 
 ---
 
