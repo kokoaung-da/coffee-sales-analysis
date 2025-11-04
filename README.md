@@ -20,7 +20,7 @@ Built an interactive sales dashboard using Power Pivot data modeling with linked
 
 **Coffee Sales Dashboard — Business Insights**
 
-- 1. **Sales Performance by Coffee Type**
+1. **Sales Performance by Coffee Type**
 
   - **Arabica and Liberica** show frequent sales peaks, indicating high seasonal demand.
   - **Robusta** sales remain consistently lower, suggesting an opportunity to either **reduce inventory** or **reposition marketing** toward its unique strengths (e.g., affordability or caffeine content).
@@ -28,7 +28,7 @@ Built an interactive sales dashboard using Power Pivot data modeling with linked
 
 ---
 
-- 2. **Sales by Geography**
+2. **Sales by Geography**
 
   - The **United States** contributes the **majority of total revenue ($35.6K)** — over **80% of total sales**, showing a strong dependency on a single market.
   - **Ireland ($6.7K)** and **United Kingdom ($2.8K)** have relatively small shares.
@@ -36,7 +36,7 @@ Built an interactive sales dashboard using Power Pivot data modeling with linked
 
 ---
 
-- 3. **Customer Segmentation Insights**
+3. **Customer Segmentation Insights**
 
   - The **Top 5 Customers** contribute significantly to overall sales, led by *Allis Wilmore* and *Brenn Dundredge*, each with over **300 units purchased**.
   - This suggests a **high-value customer segment** that drives recurring revenue.
@@ -44,7 +44,7 @@ Built an interactive sales dashboard using Power Pivot data modeling with linked
 
 ---
 
-- 6. **Loyalty Program Analysis**
+6. **Loyalty Program Analysis**
 
   - The inclusion of a **“Loyalty Card” filter** enables segmentation between members and non-members.
   - This provides an opportunity to **measure the direct impact of loyalty programs** on purchase frequency and basket size.
