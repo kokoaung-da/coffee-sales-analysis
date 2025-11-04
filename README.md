@@ -2,6 +2,10 @@
 
 Built an interactive sales dashboard using Power Pivot data modeling with linked Order, Product, and Customer tables. Applied DAX measures to calculate total and segmented sales by roast type, size, and region. Revealed that 80% of revenue came from the U.S. and that Arabica and Liberica dominated sales, guiding marketing and inventory planning decisions.
 
+**Sample Dashboard Screenshot**
+
+![Data Model](https://raw.githubusercontent.com/kokoaung-da/coffee-sales-analysis/main/coffee_sales_dashboard.png)
+
 
 **Data Model**
 
@@ -11,11 +15,6 @@ Built an interactive sales dashboard using Power Pivot data modeling with linked
 **DAX Measures**
 
 ![Data Model](https://raw.githubusercontent.com/kokoaung-da/coffee-sales-analysis/main/coffee_sales_dax_measures.png)
-
-
-**Dashboard**
-
-![Data Model](https://raw.githubusercontent.com/kokoaung-da/coffee-sales-analysis/main/coffee_sales_dashboard.png)
 
 
 **Coffee Sales Dashboard — Business Insights**
@@ -43,9 +42,3 @@ Built an interactive sales dashboard using Power Pivot data modeling with linked
   - **Recommendation:** Implement a **loyalty or VIP reward program** for top customers to increase retention and encourage repeat purchases.
 
 ---
-
-6. **Loyalty Program Analysis**
-
-  - The inclusion of a **“Loyalty Card” filter** enables segmentation between members and non-members.
-  - This provides an opportunity to **measure the direct impact of loyalty programs** on purchase frequency and basket size.
-  - **Recommendation:** Strengthen the loyalty program if data shows higher spending among members — encourage sign-ups via discounts or exclusive offers.
